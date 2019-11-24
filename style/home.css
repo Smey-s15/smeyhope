@@ -1,0 +1,100 @@
+div.gallery {
+  margin: 100px;
+  border: 15px solid #1C1C26;
+  padding:10px;
+  float: center;
+  width: 330px;
+  height: 600px;
+  background-color: #737373;
+}
+
+div.gallery:hover {
+border: 3px solid #1C1C26;
+margin:25px;
+}
+
+div.gallery img { 
+width: 100%;
+height: auto;
+}
+
+div.desc {
+padding: 10px;
+text-align: center;
+margin:0px;
+padding:0px;
+} 
+
+
+body {
+  margin:0;
+}
+
+
+
+body {
+    background-image: url("http://annetteschreiberphotography.com/wp-content/uploads/2016/10/Echinacea_2_by_Annette_Schreiber.jpg");  
+    background-repeat: no-repeat;
+}
+
+.inline-header {
+    display:inline-block;
+    color:#A69C94 ;
+    border:solid #1C1C26;
+    padding:100px;
+    margin:200px;
+}
+
+
+
+* {
+    box-sizing: border-box;
+  }
+  
+  html, body, div {
+    height: 100%;
+  }
+  
+  body { 
+    color: #fff;
+    font-size: 1.25rem;
+    line-height: 150%;
+  }
+  
+  h1 {
+    font-size: 0.75rem;
+    margin: 0;
+    color:#A69C94;
+  }
+  
+
+
+  .desc {
+    color:#A69C94;
+    padding:0px;
+    margin:0px;
+  }
+
+  div {
+    display: inline-block;
+    vertical-align: top;
+    width:100%;
+    padding: 1rem;
+  }
+
+  p {
+  
+    color:#BFA4B1;
+  }
+.center{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  width: 50%;
+}
+
+div.col-4 {
+  margin:0;
+  padding:0;
+}
+

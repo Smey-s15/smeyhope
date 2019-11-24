@@ -1,0 +1,75 @@
+    
+    body { 
+      color: #fff;
+      font-size: 1.25rem;
+      line-height: 150%;
+    }
+    
+    h1 {
+      font-size: 0.75rem;
+      margin: 10px;
+      color:#BFA4B1;
+    }
+    h2 {
+      font-size: 0.75rem;
+      margin: 10px;
+      color:#BFA4B1;
+    }
+    
+  
+  
+    .desc {
+      color:#A69C94;
+      padding:0px;
+      margin:0px;
+    }
+  
+    div {
+      display: inline-block;
+      vertical-align: top;
+      width:100%;
+      padding: 1rem;
+    }
+  
+    p {
+    
+      color:#BFA4B1;
+      margin:10px;
+      font-stretch: expanded;
+    }
+  .division{
+    width: 45%;
+    height:100px;
+    float:left;
+  }
+  #left, #right {
+    color:whitesmoke;
+    margin:30px;
+    line-height: 50px;
+    height:600px;
+  }
+  #left {
+    background-color:#1C1C26;
+  }
+  #right {
+    background-color:#BFA4B1;
+  }
+
+  .divide{
+    width: 50%;
+    height:100px;
+    float:left;
+    padding:10px;
+  }
+
+  .input-group{
+    height:50px;
+  }
+
+.carousel-inner {
+  margin:100px;
+}
+
+.card{
+  float:center;
+}
